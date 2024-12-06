@@ -5,8 +5,8 @@ backend:
   repo: taoguangc/astro5-decap #replace with your githu repo
   site_domain: astro5-decap.netlify.app
   base_url: https://astro5-decap.netlify.app
-  auth_endpoint: oauth
-  automatic_deployments: true
+  #auth_endpoint: oauth
+  #automatic_deployments: true
   #publish_mode: editorial_workflow
   #squash_merges: true
   #open_authoring: true
